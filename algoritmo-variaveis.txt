@@ -1,0 +1,26 @@
+- Nome: José Almeida da Silva
+Identificador da variável: nome
+Declaração da variável: nome; dado caractere (string)
+Utilização do comando de atribuição: nome = "José Almeida da Silva"
+
+- CPF: 12345678900
+Identificador da variável: cpf
+Declaração da variável: cpf; dado caractere (string) OU dado inteiro 
+Utilização do comando de atribuição: cpf = "12345678900" / cpf = 12345678900
+P.S.: se for necessário colocar caractere especial (um "." por exemplo), declaro como string, senão, número inteiro.
+
+- RG: 9517530
+Identificador da variável: rg
+Declaração da variável: rg; dado caractere (string) OU dado inteiro 
+Utilização do comando de atribuição: rg = "9517530" / rg = 9517530
+P.S.: se for necessário colocar caractere especial (um "." por exemplo), declaro como string, senão, número inteiro.
+
+- Altura: 1,78
+Identificador da variável: altura
+Declaração da variável: altura; dado real (número decimal)
+Utilização do comando de atribuição: altura = 1,78
+
+- Endereço: Rua A, 380 – Centro – Recife/PE
+Identificador da variável: endereco
+Declaração da variável: endereco; dado caractere (string)
+Utilização do comando de atribuição: endereco = "Rua A, 380 – Centro – Recife/PE"
