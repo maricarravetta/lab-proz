@@ -1,14 +1,30 @@
-escreva("Informe seu nome: ")
+Variáveis:
+nome = caractere (string)
+endereco = caractere (string)
+cidade = caractere (string)
+cpf = caractere (string) se tiver . / OU numero inteiro (sem .)
+rg = caractere (string) se tiver . / OU numero inteiro (sem .)
+
+# Instruções iniciadas
+
+escreva(Ïnforme seu nome:")
 leia(nome)
+escreva("Bem-vindo(a),", nome, "!")
 
 escreva("Qual seu endereço?")
 leia(endereco)
+escreva("Você mora na", endereco)
 
 escreva("Qual sua cidade?")
 leia(cidade)
+escreva("Seu endereço fica na cidade", cidade)
 
 escreva("Digite seu CPF: ")
 leia(cpf)
+escreva("Seu CPF é", cpf)
 
 escreva("Digite seu RG: ")
 leia(rg)
+escreva("Seu RG é", rg)
+
+# Instruções finalizadas
