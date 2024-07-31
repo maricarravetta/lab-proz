@@ -1,0 +1,24 @@
+*var*
+
+fumanteAnimal : logico/ booleano
+numeroClientes : inteiro
+
+*inicio*
+
+entrada("Mesa para quantas pessoas?")
+leia(numeroClientes)
+entrada("Você é fumante ou tem pets?")
+leia(fumantePet)
+
+se (fumante == true) entao
+    escreva("Você ficará na área externa")
+senao
+se (numeroClientes >= 5) entao
+    escreva("Você ficará no primeiro andar")
+senao
+escreva("Você ficará no térreo")
+
+fimse
+
+*fimalgoritmo* 
+
