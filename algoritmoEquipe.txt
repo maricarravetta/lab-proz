@@ -1,0 +1,19 @@
+*var* 
+
+contador : inteiro
+equipe : caractere
+
+*inicio*
+
+contador <- 0
+
+	escreva("Digite o nome da sua equipe")
+	leia(equipe)
+	contador <- contador + 1
+	
+	enquanto (contador <= 5) faca
+	escreva(equipe, "-", contador)
+
+fimenquanto
+
+*fimalgoritmo*
