@@ -1,0 +1,6 @@
+1. verdadeiro
+2. falso
+3. falso
+4. falso
+5. verdadeiro
+6. falso
