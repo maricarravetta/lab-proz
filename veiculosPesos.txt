@@ -1,0 +1,33 @@
+INÍCIO
+
+    VAR numRodas, pesoBruto, numPessoas : INTEIRO
+    VAR categoria : CARACTERE
+
+    ESCREVA "Digite a quantidade de rodas do veículo: "
+    LEIA numRodas
+
+    ESCREVA "Digite o peso bruto do veículo em quilogramas: "
+    LEIA pesoBruto
+
+    ESCREVA "Digite a quantidade de pessoas no veículo: "
+    LEIA numPessoas
+
+    SE (numRodas = 2 OU numRodas = 3) ENTÃO
+        categoria <- 'A'
+    SENÃO SE (numRodas = 4 E numPessoas <= 8 E pesoBruto <= 3500) ENTÃO
+        categoria <- 'B'
+    SENÃO SE (numRodas >= 4 E pesoBruto > 3500 E pesoBruto <= 6000) ENTÃO
+        categoria <- 'C'
+    SENÃO SE (numRodas >= 4 E numPessoas > 8) ENTÃO
+        categoria <- 'D'
+    SENÃO SE (numRodas >= 4 E pesoBruto > 6000) ENTÃO
+        categoria <- 'E'
+    SENÃO
+        ESCREVA "Combinação inválida de características do veículo."
+    FIM SE
+
+    SE (categoria <> "") ENTÃO
+        ESCREVA "A categoria de habilitação necessária é: ", categoria
+    FIM SE
+
+FIMALGORITMO
