@@ -9,10 +9,11 @@ Exercícios: Pasta com exercícios práticos realizados para fixar os conceitos 
 Recursos: Materiais complementares, como anotações, links úteis e exemplos de código.
 
 <b>Tecnologias Utilizadas</b>
-Python
-HTML5
-CSS3
-JavaScript
+
+Python\n
+HTML5\n
+CSS3\n
+JavaScript\n
 
 <b>Como Executar os Projetos</b>
 
