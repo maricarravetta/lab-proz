@@ -1,20 +1,20 @@
-Introdução à Programação Frontend - Proz
+<b>Introdução à Programação com foco em Frontend - Proz</b>
 
 Este repositório contém meus trabalhos e projetos desenvolvidos durante o curso de Introdução à Programação Frontend na Proz. Aqui você encontrará exemplos práticos do meu aprendizado em Python, HTML, CSS e JavaScript, abrangendo desde conceitos básicos até a construção de interfaces interativas.
 
-Estrutura do Repositório
+<b>Estrutura do Repositório</b>
 
 Projetos: Pasta principal contendo os projetos desenvolvidos ao longo do curso, organizados por tópico ou data.
 Exercícios: Pasta com exercícios práticos realizados para fixar os conceitos aprendidos.
 Recursos: Materiais complementares, como anotações, links úteis e exemplos de código.
 
-Tecnologias Utilizadas
+<b>Tecnologias Utilizadas</b>
 Python
 HTML5
 CSS3
 JavaScript
 
-Como Executar os Projetos
+<b>Como Executar os Projetos</b>
 
 Clone este repositório para sua máquina local.
 Navegue até a pasta do projeto desejado.
