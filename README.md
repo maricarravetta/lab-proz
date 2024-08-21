@@ -10,10 +10,10 @@ Recursos: Materiais complementares, como anotações, links úteis e exemplos de
 
 <b>Tecnologias Utilizadas</b>
 
-Python\n
-HTML5\n
-CSS3\n
-JavaScript\n
+Python
+HTML5
+CSS3
+JavaScript
 
 <b>Como Executar os Projetos</b>
 
